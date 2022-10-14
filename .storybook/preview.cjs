@@ -3,10 +3,10 @@ import { initialize, mswDecorator } from 'msw-storybook-addon';
 
 import '../src/styles/global.css';
 
-// Initialize MSW
-initialize();
+initialize({
+  onUnhadledRequest: 'bypass'
+});
 
-// Provide the MSW addon decorator globally
 export const decorators = [mswDecorator];
 
 export const parameters = {
