@@ -1,4 +1,4 @@
-import { Envelope, Lock } from 'phosphor-react';
+import { Envelope, Key } from 'phosphor-react';
 import { Button } from './components/Button';
 import { Checkbox } from './components/Checkbox';
 import { Heading } from './components/Heading';
@@ -39,7 +39,7 @@ export function App() {
           <Text className="font-semibold">Sua senha</Text>
           <TextInput.Root>
             <TextInput.Icon>
-              <Lock />
+              <Key/>
             </TextInput.Icon>
 
             <TextInput.Input type="password" id="password" placeholder="******" />
