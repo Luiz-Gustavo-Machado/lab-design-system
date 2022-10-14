@@ -39,7 +39,7 @@ export function App() {
           <Text className="font-semibold">Sua senha</Text>
           <TextInput.Root>
             <TextInput.Icon>
-              <Key/>
+              <Key />
             </TextInput.Icon>
 
             <TextInput.Input type="password" id="password" placeholder="******" />
