@@ -17,7 +17,7 @@
 ### 🔖 Layout Lab Design System
 
 
-Você pode visualizar o layout do projeto através 🔗 [desse link](https://luiz-gustavo-machado.github.io/lab-design-system/?path=/story/components-button--default).
+Você pode visualizar o layout do projeto através 🔗 [desse link](https://luiz-gustavo-machado.github.io/lab-design-system/).
 
 ![image](https://user-images.githubusercontent.com/108701750/196260255-87f820e0-c9d4-434a-9f71-e9591908d861.png)
 
