@@ -12,12 +12,15 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+
 ---
 
 ### 🔖 Layout Lab Design System
 - Projeto disponível no 🔗 [Deploy](https://luiz-gustavo-machado.github.io/lab-design-system/). 
 
 - Figma do projeto disponível no 🔗 [Figma](https://www.figma.com/file/z0eY2lheECbET4VDo4UCb8/Ignite-Lab?node-id=0%3A1&t=Ffbdm7rEuJzpywwB-0)
+
+![image](https://user-images.githubusercontent.com/108701750/196260255-87f820e0-c9d4-434a-9f71-e9591908d861.png)
 #
 
 ### 🚀 Tecnologias
